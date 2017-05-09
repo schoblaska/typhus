@@ -1,3 +1,5 @@
+[![CircleCI](https://circleci.com/gh/joeyschoblaska/typhus/tree/master.svg?style=shield)](https://circleci.com/gh/joeyschoblaska/typhus/tree/master)
+
 Typhus is [Typhoeus](https://github.com/typhoeus/typhoeus), but easier to say.
 
 > How do you say it again? TIE-FOE-EE-US? TIE-FOI-US? Nevermind, I'll just use Typhus.
