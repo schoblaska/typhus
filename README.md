@@ -20,7 +20,7 @@ gem "typhus"
 
 ## Usage
 
-Works just like Typhoeus.
+Works just like Typhoeus, because it is Typhoeus (but easier to say).
 
 ```ruby
 request = Typhus::Request.new(
