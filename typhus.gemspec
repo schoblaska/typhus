@@ -10,4 +10,7 @@ Gem::Specification.new do |s|
   s.license     = "MIT"
 
   s.add_dependency "typhoeus"
+
+  s.add_development_dependency "rake"
+  s.add_development_dependency "test-unit"
 end
